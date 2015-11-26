@@ -3,6 +3,7 @@
 !/etc
 /etc/*
 !/etc/nginx
+/etc/nginx/*
 !/etc/nginx/sites-available
 
 
