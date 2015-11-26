@@ -1,5 +1,13 @@
 /*
 !.gitignore
 !/etc
+/etc/*
 !/etc/nginx
 !/etc/nginx/sites-available
+
+
+!/usr
+/usr/*
+!/usr/share
+/usr/share/*
+!/usr/share/nginx
