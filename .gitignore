@@ -1,3 +1,5 @@
 /*
 !.gitignore
+!/etc
+!/etc/nginx
 !/etc/nginx/sites-available
