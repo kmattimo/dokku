@@ -5,3 +5,11 @@ That may or not be a good idea but it seems to work well so far....
 git init .
 git remote add -t \* -f origin <repository-url>
 git pull /whatever
+
+
+
+Dokku Notes 
+==========
+
+Updated nginx to support HTTP2 
+PHP Version? 
