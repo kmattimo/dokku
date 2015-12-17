@@ -116,7 +116,8 @@ a.pure-button-primary {
 }
 
 .home-menu a {
-    color: #6FBEF3;
+    /*color: #6FBEF3;*/
+    color: #FFF;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
@@ -132,12 +133,13 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+    /*background: #1f8dd6;*/
+    background: #5e35b1 ;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 88%;
+    height: 100%;
     top: 0;
     left: 0;
     position: fixed !important;

@@ -1,52 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Count Dokku">
-
-    <title>kmattimo.me- dokku</title>
-
-
-<!-- AWW YEAH. LOOK AT THIS SHIT. ONE FILE. YEAH.  
-SUCK IT INLINE STYLE HATERS
--->
-<!-- <link rel="stylesheet" href="/css/pure-min.css">
-<link rel="stylesheet"  href="/css/grids-responsive-min.css">
-
-<link rel="stylesheet" href="/css/marketing.css"> -->
-
-<!-- <link rel="stylesheet" href="/css/uncss.css"> -->
-
-
-</head>
-<body>
-
-
-<div class="header">
-    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-        <a class="pure-menu-heading" href="">Cloud Kyle</a>
-        <ul class="pure-menu-list">
-            <li class="pure-menu-item"><a href="https://kmattimo.me"  class="pure-menu-link">Home</a></li>
-            <li class="pure-menu-item"><a href="https://www.kylemattimore.com" class="pure-menu-link">Who made this crap?</a></li>
-        </ul>
-    </div>
-</div>
-
-<div class="splash-container">
-    <div class="splash">
-        <h1 class="splash-head">WHOA</h1>
-        <p class="splash-subhead">
-            I don't think this app exists. One of us messed up. 
-        </p>
-        <p>
-            <a href="https://kmattimo.me"  target="_blank" class="pure-button pure-button-primary">Go Home</a>
-        </p>
-    </div>
-</div>
-
-</body>
-<style>
 /*** uncss> filename: css/pure-min.css ***/
 
 /*!
@@ -466,7 +417,3 @@ a.pure-button-primary {
   }
 }
 
-
-</style>
-
-</html>
