@@ -16,4 +16,9 @@ Dokku Notes
 ==========
 
 Updated nginx to support HTTP2 
-PHP Version? 
+
+Stop first app from appearing on all subdomains: 
+`ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/`
+
+fix wonkiness after dokku/ubuntu upgrade:
+`dokku ps:rebuildall`
